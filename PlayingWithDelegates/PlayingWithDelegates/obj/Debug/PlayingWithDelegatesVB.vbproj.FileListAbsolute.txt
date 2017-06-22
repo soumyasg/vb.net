@@ -1,0 +1,9 @@
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\bin\Debug\PlayingWithDelegates.exe.config
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\bin\Debug\PlayingWithDelegates.exe
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\bin\Debug\PlayingWithDelegates.pdb
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\bin\Debug\PlayingWithDelegates.xml
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\obj\Debug\PlayingWithDelegates.Resources.resources
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\obj\Debug\PlayingWithDelegatesVB.vbproj.GenerateResource.Cache
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\obj\Debug\PlayingWithDelegates.exe
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\obj\Debug\PlayingWithDelegates.xml
+C:\Users\Soumya\documents\visual studio 2017\Projects\PlayingWithDelegates\PlayingWithDelegates\obj\Debug\PlayingWithDelegates.pdb
